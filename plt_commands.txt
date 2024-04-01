@@ -1,0 +1,14 @@
+reset session
+set title "Interpolation"
+set key spacing 1.5
+set offsets 10, 10, 10, 10
+set border 15 lw 1
+set lmargin at screen 0.13
+set bmargin at screen 0.15
+set xlabel "x"
+set ylabel "y:=f(x)"
+set grid x y
+set colorsequence classic
+#set key left top
+#set multiplot
+#set key box
