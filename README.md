@@ -12,9 +12,9 @@ Gnuplot: http://www.gnuplot.info/
 5. Построение графика кривой
 
 # Пример работы:
-![image](https://github.com/De-Par/Spline_interpolation/blob/main/pictures/plot_2.pdf)
+![image](https://github.com/De-Par/Spline_interpolation/blob/main/pictures/plot_2.png)
 
-![image](https://github.com/De-Par/Spline_interpolation/blob/main/pictures/plot_1.pdf)
+![image](https://github.com/De-Par/Spline_interpolation/blob/main/pictures/plot_1.png)
 
-![image](https://github.com/De-Par/Spline_interpolation/blob/main/pictures/plot_3.pdf)
-![image](https://github.com/De-Par/Spline_interpolation/blob/main/pictures/result.pdf)
+![image](https://github.com/De-Par/Spline_interpolation/blob/main/pictures/plot_3.png)
+![image](https://github.com/De-Par/Spline_interpolation/blob/main/pictures/result.png)
