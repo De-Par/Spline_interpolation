@@ -5,16 +5,16 @@
 Gnuplot: http://www.gnuplot.info/
 
 # Реализовано:
-1. Восстановление значений функций, по точкам, заданными пользователем
-2. Восстановление значений функций из файла
-3. Вычисление точки пересечения
-4. Вычисление минимальной дистанции между сплайнами
-5. Построение графика кривой
+1. Восстановление промежуточных значений функций по точкам, заданными пользователем
+2. Вычисление точки пересечения
+3. Вычисление минимальной дистанции между сплайнами
+4. Построение графика кривой
 
 # Пример работы:
+##### Входные данные:
+
 ![image](https://github.com/De-Par/Spline_interpolation/blob/main/pictures/plot_2.png)
 
-![image](https://github.com/De-Par/Spline_interpolation/blob/main/pictures/plot_1.png)
+##### Промежуточные значения:
 
-![image](https://github.com/De-Par/Spline_interpolation/blob/main/pictures/plot_3.png)
-![image](https://github.com/De-Par/Spline_interpolation/blob/main/pictures/result.png)
+![image](https://github.com/De-Par/Spline_interpolation/blob/main/pictures/plot_1.png)
